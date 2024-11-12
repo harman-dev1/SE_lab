@@ -1,0 +1,3 @@
+harmanrick81
+KbSfJuOecMNtBEyx
+mongodb+srv://harmanrick81:<db_password>@cluster0.4zoup.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
